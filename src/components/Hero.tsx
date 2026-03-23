@@ -18,7 +18,7 @@ export const Hero: React.FC = () => {
             <img 
               src={personalInfo.avatarUrl} 
               alt={personalInfo.name} 
-              className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+              className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
             />
           </div>
