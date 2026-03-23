@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'motion/react';
 import { Mail, Phone, Linkedin } from 'lucide-react';
 import { resumeData } from '../data/resume';
+import avatarImg from '../data/WechatIMG107.jpg';
 
 export const Hero: React.FC = () => {
   const { personalInfo, education } = resumeData;
@@ -16,7 +17,7 @@ export const Hero: React.FC = () => {
         >
           <div className="w-48 h-64 bg-gray-200 rounded-2xl overflow-hidden shadow-2xl relative z-10">
             <img 
-              src={personalInfo.avatarUrl} 
+              src={avatarImg} 
               alt={personalInfo.name} 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
