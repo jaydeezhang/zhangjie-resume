@@ -5,7 +5,7 @@ export const resumeData: ResumeData = {
     name: '张杰',
     role: '产品设计师',
     experienceYears: 5,
-    avatarUrl: 'https://picsum.photos/seed/jz/400/600',
+    avatarUrl: 'https://file.trae.ai/v1/user-file/e16f9202-b2da-4b71-9c32-e0c6533038a8.jpeg?signature=P25rU0J4a1V1V0Z0d2QybmZzZ04ycm9OQWdGbmQwc0Z6RE5hV3lQcEhBdz0%3D',
     about: [
       '两年的美国留学经历，在字节跳动（TikTok）长期处于英语工作环境，具备良好的英语听说读写能力。拥有一定的前端编程基础，对AI前沿技术领域充满兴趣，对通用AI产品，AI生图，AI编程，工作流知识库编排等产品有一定的使用经验和理解。作为产品设计师出身，在工作中注重细节与用户体验，善于总结、复盘和沉淀项目经验。',
       '擅长应对复杂业务系统的产品设计挑战，具备扎实的系统化思维能力与从用户视角出发的问题拆解能力。始终以数据与结果为导向，关注设计对业务指标的实际影响，推动设计价值可量化。性格外向，沟通风格开放直接，善于在跨职能团队中协调需求、凝聚共识，注重合作共赢并积极驱动项目高效落地。'
