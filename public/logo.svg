@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="128" fill="#111827"/>
+  
+  <!-- J shape -->
+  <path d="M 180 160 L 260 160 C 300 160 320 180 320 220 L 320 292 C 320 332 300 352 260 352 L 180 352" 
+        fill="none" 
+        stroke="#3B82F6" 
+        stroke-width="48" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+        
+  <path d="M 250 160 L 250 352" 
+        fill="none" 
+        stroke="#3B82F6" 
+        stroke-width="48" 
+        stroke-linecap="round"/>
+        
+  <path d="M 180 352 L 250 352" 
+        fill="none" 
+        stroke="#3B82F6" 
+        stroke-width="48" 
+        stroke-linecap="round"/>
+
+  <!-- Z shape (overlapping) -->
+  <path d="M 180 256 L 332 256 L 180 352 L 332 352" 
+        fill="none" 
+        stroke="#FFFFFF" 
+        stroke-width="48" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+
+  <!-- Decorative Dot -->
+  <circle cx="360" cy="352" r="24" fill="#3B82F6"/>
+</svg>
